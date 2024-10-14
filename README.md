@@ -10,4 +10,4 @@ In this project, I created a system to measure important metrics inside of a gre
 - LCD Display
 - Arduino IDE
 
-![plot](DanielNawrot/Greenhouse-Automation-Project/ClimateSensor.png)
+![alt text](https://github.com/DanielNawrot/Greenhouse-Automation-Project/blob/ClimateSensor.png?raw=true)
